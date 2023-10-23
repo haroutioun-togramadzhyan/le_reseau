@@ -1,2 +1,2 @@
 # le_reseau
-voir readme svp
+Salut, j'ai crée des animations GIF de Cisco packet tracer pour les jobs 6, 8 et 9, j'ai pris cette decision pour eviter de mettre 6932843 captures d'ecrans dans la documentation. Puisque les GIFs ne fonctionnent pas sur les fichiers PDF ils seront consultables et telechargeables dans le repo, j'essaie de voir pour les prochaines fois comment integrer des fichiers GIF fonctionnels dans un pdf, j'aimerais bien une explcation de comment faire ca si c'est possible, voila voila merci!
